@@ -1,3 +1,7 @@
+This is a fork attempting to make this run smoother and be more optimised.
+
+
+
 # HeliCam
 HeliCam is an advanced aerial support camera for FiveM servers. It aims to create a realistic FLIR camera system within the limitations of Grand Theft Auto 5. This is a heavily modified fork of the original script by [mraes](https://forum.cfx.re/t/release-heli-script/24094).
 
